@@ -1,2 +1,3 @@
-# ADHD-And-SODHs
-This is our project code: coming soon
+# ADHD-Analysis
+Hello!
+Welcome to our data analysis for ADHD
